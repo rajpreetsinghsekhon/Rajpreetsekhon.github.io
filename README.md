@@ -1,12 +1,13 @@
-# Hello  🙌
+# **WELCOME TO THE MY SITE**
 
-> **The link of youtube channel i provide the link below**.
+## First of all i can introduce to myself to you all. My name is Rajpreet singh sekhon . I study in btech computer science in GURU NANAK DEV ENGINEERING COLLEGE  DISTRICT (LUDHIANA) 
 
-> **Kindly visit my youtube channel and subscribe my channel**.\
-> **My youtube channel is regarding a gurbani kirtan**. \
-> **I hope you can like my channel**.
+### OKY, lets come to the point 
 
-[link](//www.youtube.com/@rajpreetsinghsekhon8359)
+>**That, i can start making my first website through github in markdown language**
+
+>_Thourgh that it is great experience to me regarding the website features_
+> 
 
 
 
