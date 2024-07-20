@@ -20,5 +20,5 @@
 
 # **EXCEL CERTIFICATE**
 
-[EXCEL CERTIFICATE](image.png)
+
 ![1000003668](https://github.com/user-attachments/assets/d49bd31d-90e7-4f43-9077-460aaa9b8242)
